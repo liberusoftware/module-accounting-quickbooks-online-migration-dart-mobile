@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-quickbooks-online-migration-dart-mobile",
+  "capabilityKey": "liberusoftware/module-accounting-quickbooks-online-migration",
+  "presentation": "dart-mobile",
+  "package": "module_accounting_quickbooks_online_migration_dart_mobile",
+  "foundation": "module-boilerplate-dart-mobile",
+  "foundationCommit": "0656c212b36ef4f8ffd6fc74db4ac541268e7d31",
+  "canonicalPlan": "projects/accounting/nextjs/quickbooks-online-migration.md",
+  "presentationPlan": "projects/accounting/features/quickbooks-online-migration.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
